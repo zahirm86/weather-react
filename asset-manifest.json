@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zahirm86/weather-react/static/css/main.2e7236db.css",
+    "main.js": "/zahirm86/weather-react/static/js/main.64211d5b.js",
+    "index.html": "/zahirm86/weather-react/index.html",
+    "main.2e7236db.css.map": "/zahirm86/weather-react/static/css/main.2e7236db.css.map",
+    "main.64211d5b.js.map": "/zahirm86/weather-react/static/js/main.64211d5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e7236db.css",
+    "static/js/main.64211d5b.js"
+  ]
+}
